@@ -8,4 +8,4 @@ Malaysian operator and builder based in Selangor.
 
 **Tools:** Next.js · Postgres · Vercel · Claude / Claude Code · n8n · Playwright
 
-[Website](https://pangjunhan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jun-han-pang-3027b41a3/) · [Instagram](https://www.instagram.com/jun_h4n/)
+[Website](https://pangjunhan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/pangjunhan/) · [Instagram](https://www.instagram.com/jun_h4n/)
